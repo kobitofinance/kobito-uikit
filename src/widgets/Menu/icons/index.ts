@@ -24,3 +24,4 @@ export { default as Titanic2Icon } from "./Titanic2";
 export { default as IglooIcon } from "./Igloo";
 export { default as BurningIcon } from "./Burning";
 export { default as KobitoIcon } from "./Kobito";
+export { default as TimerIcon } from "./Timer";
