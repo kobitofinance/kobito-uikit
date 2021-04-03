@@ -10,11 +10,11 @@ export const links = [
     items: [
       {
         label: "Exchange",
-        href: "https://exchange.vikingswap.finance",
+        href: "https://exchange.kobito.finance",
       },
       {
         label: "Liquidity",
-        href: "https://exchange.vikingswap.finance/#/pool",
+        href: "https://exchange.kobito.finance/#/pool",
       },
     ],
   },
@@ -51,15 +51,15 @@ export const links = [
     items: [
       {
         label: "Github",
-        href: "https://github.com/VikingDefi/",
+        href: "https://github.com/kobitofinance/",
       },
       {
         label: "Docs",
-        href: "https://vikingswap.gitbook.io/viking-swap/",
+        href: "https://docs.kobito.finance/viking-swap/",
       },
       {
         label: "Blog",
-        href: "https://viking-swap.medium.com/",
+        href: "https://kobitofinance.medium.com/",
       },
     ],
   },
@@ -72,18 +72,18 @@ export const socials = [
     items: [
       {
         label: "English",
-        href: "https://t.me/IcebergDeFi",
+        href: "https://t.me/kobitofinance",
       },
       {
         label: "Announcements",
-        href: "https://t.me/IcebergAnnouncement"
+        href: "https://t.me/kobitofinanceann"
       }
     ],
   },
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/iceberg_defi",
+    href: "https://twitter.com/kobitofinance",
   },
 ];
 
